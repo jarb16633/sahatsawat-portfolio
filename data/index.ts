@@ -173,7 +173,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Backend Engineer Intern",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
@@ -205,13 +205,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/jarb16633"
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/facebook.svg",
+      link: "https://www.facebook.com/sahassawas2000"
     },
     {
       id: 3,
-      img: "/link.svg",
+      img: "/instagram.svg",
+      link: "https://www.instagram.com/sahassawasjarb/"
     },
   ];
